@@ -1,9 +1,8 @@
-streamlit==1.19.0
 pandas==1.4.4
 shap==0.41.0
 streamlit-shap==1.0.2
 catboost==1.1.1
 matplotlib==3.5.2
-Numpy==1.21
+numpy<=1.24
 numba ==0.55
-shap numba
+
