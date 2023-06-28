@@ -3,6 +3,6 @@ shap==0.41.0
 streamlit-shap==1.0.2
 catboost==1.1.1
 matplotlib==3.5.2
-numpy<=1.24
-numba ==0.54
+numpy==1.21.4
+numba ==0.53.0
 
