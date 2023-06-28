@@ -4,5 +4,5 @@ shap==0.41.0
 streamlit-shap==1.0.2
 catboost==1.1.1
 matplotlib==3.5.2
-numpy<=1.24
-python==3.9
+Numpy==1.21.4
+numba==0.53
