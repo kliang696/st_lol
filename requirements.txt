@@ -6,4 +6,4 @@ catboost==1.1.1
 matplotlib==3.5.2
 Numpy==1.21
 numba ==0.55
-
+shap numba
